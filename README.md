@@ -11,7 +11,7 @@
 - The repository must provide instructions on how to configure, execute and test the project
 - Documentation and overall organization will also be taken into consideration
 
-##Setup and Execution
+## Setup and Execution
 
 **1. Clone the repository.**
 * Clone the repository using GitHub.
@@ -25,7 +25,7 @@
 * Select "Set as Startup Project".
 * Choose the IIS Express execution mode.
 
-**4. Run tests in Visual Studio))
+**4. Run tests in Visual Studio**
 * In the Test menu, click Run All Tests.
 
 ## Use Case
